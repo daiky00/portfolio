@@ -1,0 +1,20 @@
+//variables
+@import "variables";
+// bower:scss
+@import "bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
+// endbower
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Grand+Hotel|Libre+Baskerville');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css');
+//General css
+@import "general";
+// Text color
+@import "text-color";
+// Background color
+@import "background-color";
+// pages
+@import "home";
+@import "work";
+@import "about";
+//Includes
+@import "nav";

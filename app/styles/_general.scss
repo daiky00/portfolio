@@ -1,0 +1,94 @@
+body {
+  font-family: "Montserrat",HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  padding: 0;
+}
+
+footer {
+  background: $purple;
+  color: $white;
+  padding: 2rem 0;
+}
+
+h1, .h1 {
+  font-size: 7rem;
+}
+
+h2, .h2 {
+  font-size: 3.5rem;
+}
+
+h3, .h3 {
+  font-size: 3.25rem;
+}
+
+h4, .h4 {
+  font-size: 3rem;
+}
+
+h5, .h5 {
+  font-size: 2rem;
+}
+
+h6, .h6 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.5rem;
+  Line-height: 30px;
+}
+
+.padding-space {
+  padding: 6% 0;
+}
+
+.margin-space {
+  margin: 6% 0;
+}
+
+.page-name {
+  font-family: 'Grand Hotel', cursive;
+  padding: 50px 0 0;
+}
+
+.profession {
+  padding: 50px 0 0;
+}
+
+.cloud-right {
+  position: relative;
+  background: url(../images/cloud.svg) top right no-repeat;
+}
+
+.cloud-left {
+  position: relative;
+  background: url(../images/cloud.svg) top left no-repeat;
+}
+
+.even-space {
+  padding: 0 1%;
+}
+
+.ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.li {
+  display: inline-block;
+}
+
+.li-space {
+  padding: 2% 4%;
+}
+
+.paragraph {
+  color: $grey;
+  padding: 0 0 10%;
+}
+
+.margin-center {
+  margin: 0 auto;
+}
+

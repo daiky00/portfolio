@@ -1,0 +1,38 @@
+.nav-custom {
+  background: $purple;
+  box-shadow: none;
+  padding: 30px 0 0;
+  min-height: 100px;
+  a {
+    color: $white;
+    font-size: 2rem;
+    &:hover, &:focus {
+      color: $purple;
+    }
+  }
+
+}
+
+.image-logo {
+  width: 80px;
+  position: absolute;
+  top: 10px;
+}
+
+.nav-second {
+  float: right;
+}
+
+.navbar-toggle {
+  padding: 0 11px;
+  .icon-bar {
+    background: $white;
+  }
+}
+
+
+@media screen and (max-width: 767px) {
+  .nav-second {
+    float: none;
+  }
+}

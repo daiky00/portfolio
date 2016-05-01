@@ -72,20 +72,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-612">
-              <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+            <state relative-caret-position="-536">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding>
-                <marker date="1462052597648" expanded="true" signature="617:770" placeholder="..." />
-                <marker date="1462052597648" expanded="true" signature="710:738" placeholder="..." />
+                <marker date="1462079675449" expanded="true" signature="617:770" placeholder="..." />
+                <marker date="1462079675449" expanded="true" signature="710:738" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="work.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="work.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/work.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="722">
@@ -146,7 +146,6 @@
         <option value="$PROJECT_DIR$/app/styles/_variables.scss" />
         <option value="$PROJECT_DIR$/app/styles/_work.scss" />
         <option value="$PROJECT_DIR$/app/styles/_about.scss" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/views/about.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -156,6 +155,7 @@
         <option value="$PROJECT_DIR$/app/styles/_button.scss" />
         <option value="$PROJECT_DIR$/app/styles/_background-color.scss" />
         <option value="$PROJECT_DIR$/app/views/work.html" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -717,12 +717,12 @@
       <workItem from="1461693909302" duration="28643000" />
       <workItem from="1461856452853" duration="33478000" />
       <workItem from="1461939356350" duration="33587000" />
-      <workItem from="1462034855028" duration="22817000" />
+      <workItem from="1462034855028" duration="23526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118525000" />
+    <option name="totallyTimeSpent" value="119234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -859,8 +859,8 @@
         <state relative-caret-position="1258">
           <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
           <folding>
-            <marker date="1462052597648" expanded="true" signature="617:770" placeholder="..." />
-            <marker date="1462052597648" expanded="true" signature="710:738" placeholder="..." />
+            <marker date="1462079675449" expanded="true" signature="617:770" placeholder="..." />
+            <marker date="1462079675449" expanded="true" signature="710:738" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -942,8 +942,8 @@
         <state relative-caret-position="1088">
           <caret line="32" column="77" selection-start-line="32" selection-start-column="77" selection-end-line="32" selection-end-column="77" />
           <folding>
-            <marker date="1462052597648" expanded="true" signature="617:770" placeholder="..." />
-            <marker date="1462052597648" expanded="true" signature="710:738" placeholder="..." />
+            <marker date="1462079675449" expanded="true" signature="617:770" placeholder="..." />
+            <marker date="1462079675449" expanded="true" signature="710:738" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1161,17 +1161,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
-          <folding>
-            <marker date="1462052597648" expanded="true" signature="617:770" placeholder="..." />
-            <marker date="1462052597648" expanded="true" signature="710:738" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/_text-color.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1185,6 +1174,17 @@
         <state relative-caret-position="722">
           <caret line="234" column="62" selection-start-line="234" selection-start-column="62" selection-end-line="234" selection-end-column="62" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding>
+            <marker date="1462079675449" expanded="true" signature="617:770" placeholder="..." />
+            <marker date="1462079675449" expanded="true" signature="710:738" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
